@@ -1,0 +1,15 @@
+Future World do trabalho de BD:
+
+> Gerar proximas combinações de horários
+
+> Lista disciplinas que pode cursar, seleciona-la e adicionar automaticamente na tela
+
+> Lista disciplinas eletivas obrigatorias, seleciona-la e adicionar automaticamente a pagina
+
+> Mostrar professor relacionado a cada turma
+
+> Gerar log final com as disciplinas selecionadas para todas as opcoes.
+
+> Filtro caso o aluno tenha cr baixo. Maximo de 6 disciplinas.
+
+> Criar restricao de horario ao montar grade automaticamente.
